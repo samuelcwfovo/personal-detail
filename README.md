@@ -4,22 +4,32 @@ Personal project
 https://github.com/samuelcwfovo
 
 Project Name: HKBUS
-Link:https://www.youtube.com/watch?v=VlPyey4FnsM&feature=youtu.be&ab_channel=SamuelChow
+
+Link: https://www.youtube.com/watch?v=VlPyey4FnsM&feature=youtu.be&ab_channel=SamuelChow
+
 Detail: HK travel application provide all bus related info.
+
 Skill used: Flutter, Getx, NodeJS
 
 
 Project Name:  IMovie
+
 Link: https://github.com/samuelcwfovo/Android_Project_Movie
+
 Detail:  Movie application that will display the list of the current available movies in HK with IMDB rate.
+
 Function : 
 - Fetch movie data from hkmovie6.com and fetch their IMDB rate from imdb api
 - Distplay movie detail nicely to user
+
 Skill used: Kotlin
 
 Project Name: AE Time
+
 Link : https://github.com/samuelcwfovo/CSCI2720_project
+
 Detail: A web application for checking Hong Kong Emergency department waiting time.
+
 Function: 
 - Login /Logut
 - Login rember me (token)
@@ -41,11 +51,15 @@ Skill used: Express.js, Webpack js, React js, MongoDB
 Working Duties
 
 Project Name: Carlig
+
 Link: https://carlig.com/
+
 Detail: e-maginzine + online shopping mall
+
 Skill used: React, Flux, Typescript
 
 Project Name: 日常起居生活護理表
+
 Link: https://build-tan-nine.vercel.app/
 
 
